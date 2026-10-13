@@ -63,11 +63,3 @@ I built the dashboards in **Microsoft Excel**, using PivotTables, charts, and sl
 1. Open `FIRSTclubQuickCOMM_data.xlsx` in Microsoft Excel.
 2. Use the dashboard filters and slicers to explore different dates and views.
 3. Check the supporting sheets to see the data behind the charts.
-
-## What I'd improve next
-
-I'd add clearer definitions for each KPI, make the filters and layout more consistent, and compare delivery performance and campaign returns over time.
-
----
-
-This project was a hands-on way to practise turning business data into something easier to explore and use for decisions.
