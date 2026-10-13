@@ -1,4 +1,4 @@
-# FirstClub — Quick Commerce Sales & Operations Dashboard
+# FirstClub - Quick Commerce Sales & Operations Dashboard
 
 FirstClub is a quick-commerce concept built around getting everyday essentials to customers in around 20–30 minutes. For this project, I used the provided order, delivery, customer, product, and marketing data to understand how the business is performing and where it could improve.
 
@@ -60,10 +60,3 @@ A few headline figures shown in the dashboard:
 3. Use the dashboard filters and slicers to explore the different views.
 4. Check the supporting sheets for the data behind the charts.
 
-## Next steps
-
-If I extend this project, I’d focus on making the dashboard easier to navigate, adding clearer definitions for each KPI, and comparing delivery performance and campaign returns over time.
-
----
-
-This project was created as a hands-on exercise in business analytics: turning raw operational data into a dashboard that helps answer practical questions about sales, delivery, customers, and marketing.
