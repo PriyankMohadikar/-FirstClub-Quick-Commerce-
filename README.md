@@ -1,4 +1,4 @@
-# FirstClub — Quick Commerce Sales & Operations Dashboard
+# FirstClub - Quick Commerce Sales & Operations Dashboard
 
 FirstClub is a quick-commerce concept built around getting everyday essentials to customers quickly. For this project, I explored order, delivery, customer, product, and marketing data to get a clearer picture of how the business is performing and where it could improve.
 
@@ -54,9 +54,9 @@ I built the dashboards in **Microsoft Excel**, using PivotTables, charts, and sl
 
 ## Files
 
-- `FIRSTclubQuickCOMM_data.xlsx` — workbook with the data and dashboards.
-- `dashboard-sales.png` — sales dashboard screenshot.
-- `dashboard-operations-marketing.png` — operations and marketing dashboard screenshot.
+- `FIRSTclubQuickCOMM_data.xlsx` - workbook with the data and dashboards.
+- `dashboard-sales.png` - sales dashboard screenshot.
+- `dashboard-operations-marketing.png` - operations and marketing dashboard screenshot.
 
 ## How to explore the project
 
